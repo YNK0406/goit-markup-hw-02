@@ -1,6 +1,6 @@
 /*BODY SECTION*/
-.body{
-    font-family: 'Roboto Slab', serif;
+.body {
+    font-family: 'Roboto', sans-serif;
     font-style: normal;
     color: #212121;
     background: #FFFFFF;
@@ -199,7 +199,10 @@ font-size: 14px;
 line-height: 1.71;
 letter-spacing: 0.03em;
 color: #FFFFFF;
-
+cursor: default;
+}
+.curs-def {
+    cursor: default;
 }
 .address-mail-link{
     font-weight: normal;
@@ -207,6 +210,7 @@ color: #FFFFFF;
     line-height: 1.71;
     letter-spacing: 0.03em;
     color: rgba(255, 255, 255, 0.6);
+
 }
 .address-tel-link {
     font-weight: normal;
