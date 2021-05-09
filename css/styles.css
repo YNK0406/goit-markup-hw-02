@@ -229,8 +229,7 @@ cursor: default;
     
 }
 .btn-total { 
-    font-family: 'Roboto', sans-serif;
-    font-style: normal;
+    font-family: inherit;
     background: #F5F4FA;
     border-radius: 4px;  
     font-weight: 500;
