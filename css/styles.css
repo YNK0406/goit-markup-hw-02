@@ -229,6 +229,8 @@ cursor: default;
     
 }
 .btn-total { 
+    font-family: 'Roboto', sans-serif;
+    font-style: normal;
     background: #F5F4FA;
     border-radius: 4px;  
     font-weight: 500;
@@ -237,6 +239,7 @@ cursor: default;
     text-align: center;
     letter-spacing: 0.03em;
     cursor: pointer;
+    
 }
 .btn-total:hover,
 .btn-total:focus {
